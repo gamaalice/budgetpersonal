@@ -13,6 +13,6 @@ Data is stored in a clean CSV file that starts empty, and all transactions are a
 - Fully modular code (main.py, utils.py, charts.py)
 
 ## How to Run
-pip install pandas matplotlib
+pip install pandas matplotlib 
 python main.py
 
